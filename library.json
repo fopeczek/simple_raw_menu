@@ -4,7 +4,7 @@
 "repository":
 {
     "type": "git",
-    "url": "https://github.com/fopeczek/menu.git"
+    "url": "https://github.com/fopeczek/simple_raw_menu.git"
 },
 "description": "Simple raw menu interface, used for drawing menu on lcd screen.",
 "authors": [
