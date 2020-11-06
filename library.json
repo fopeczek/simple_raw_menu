@@ -20,6 +20,6 @@
 "dependencies": {
 	"Silent/function_objects": "^1.0.0", 
 	"platformio/Streaming":
-"^1.0.0"
+"@0.0.0-alpha+sha.5"
 }
 }
